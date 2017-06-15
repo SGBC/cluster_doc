@@ -1,6 +1,11 @@
-# Welcome to MkDocs
+# Planetsmasher Documentation
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This is the online documentation for the SLU Global Bioinformatics Centre
+computing cluster. The documentation is aimed at end-user with at least basic
+knowledge of UNIX and the command-line.
+
+This documentation is a work in progress! Please report any issue
+[here](https://github.com/SGBC/cluster_doc/issues)
 
 ## Commands
 
