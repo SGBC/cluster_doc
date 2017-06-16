@@ -5,11 +5,23 @@ The documentation is written in Markdown and built using `mkdocs`
 
 ## Build
 
+First install mkdocs with your favorite package manager
+
+```
+brew install mkdocs
+```
+
+Then clone the directory
+
 ```
 git clone https://github.com/SGBC/cluster_doc.git
 cd cluster_doc
+```
 
-mkdocs serve
+For a live preview in your browser do
+
+```
+mkdocs serve &
 ```
 
 ## License

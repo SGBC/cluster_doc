@@ -7,16 +7,23 @@ knowledge of UNIX and the command-line.
 This documentation is a work in progress! Please report any issue
 [here](https://github.com/SGBC/cluster_doc/issues)
 
-## Commands
+## Table of Contents
 
-* `mkdocs new [dir-name]` - Create a new project.
+* [Modules user guide](modules.md) - how to use the module system (*TODO*).
+* [SGE user guide](sge.md) - how to use the queuing system.
 * `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
 * `mkdocs help` - Print this help message.
 
-## Project layout
+## Contributors
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+All the people who contributed to this documentation (in no particular order):
+
+- Hadrien Gourlé
+
+## License
+
+This work is licensed under the Creative Commons Attribution 4.0 International
+License. To view a copy of this license, visit
+<http://creativecommons.org/licenses/by/4.0/> or send a letter to Creative
+Commons, PO Box 1866, Mountain View, CA 94042, USA.
