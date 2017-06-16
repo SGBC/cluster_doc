@@ -11,9 +11,6 @@ This documentation is a work in progress! Please report any issue
 
 * [Modules user guide](modules.md) - how to use the module system (*TODO*).
 * [SGE user guide](sge.md) - how to use the queuing system.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
 
 ## Contributors
 
