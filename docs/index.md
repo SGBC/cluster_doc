@@ -9,7 +9,8 @@ This documentation is a work in progress! Please report any issue
 
 ## Table of Contents
 
-* [Modules user guide](modules.md) - how to use the module system (*TODO*).
+* [Modules user guide](modules.md) - how to use the module system.
+* [Project user guide](projects.md) - where to work?
 * [SGE user guide](sge.md) - how to use the queuing system.
 
 ## Contributors
