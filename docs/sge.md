@@ -1,4 +1,4 @@
-# SGE User Guide
+# Sge
 
 ## Basic SGE Commands
 

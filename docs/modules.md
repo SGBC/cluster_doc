@@ -1,4 +1,4 @@
-# Module System User Guide
+# Modules
 
 ## Rationale
 
